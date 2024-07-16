@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_calendar.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/calendar.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_multi_lines.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/multi_lines.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_home.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_home.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_back2.jpg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/back2.jpg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_doctor_details.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_doctor_details.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_register.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_register.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_health_articles.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_health_articles.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_health1.jpeg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/health1.jpeg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_buy_medicine_details.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_buy_medicine_details.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_book_appointment.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_book_appointment.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_background.jpg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/background.jpg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_surgeon.jpeg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/surgeon.jpeg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_lab_test_details.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_lab_test_details.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_cardiologists.jpg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/cardiologists.jpg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_order_details.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_order_details.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_health_articles_details.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_health_articles_details.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_btn_bg.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_cart_lab.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_cart_lab.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_ic_baseline_security_24.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_health5.jpeg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/health5.jpeg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_dietician.jpg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/dietician.jpg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_widgets.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/widgets.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_health2.jpeg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/health2.jpeg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_login.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_login.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_back1.jpg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/back1.jpg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_chat.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/chat.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_family_physicians.jpg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/family_physicians.jpg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_find_doctor.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_find_doctor.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_lab_test_book.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_lab_test_book.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_buy_medicine.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_buy_medicine.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_dentist.jpg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/dentist.jpg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_lab_test.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_lab_test.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_cart_buy_medicine.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_cart_buy_medicine.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_health3.jpeg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/health3.jpeg"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_buy_medicine_book.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_buy_medicine_book.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_input_bg.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_language.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/language.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "cdu.zch.healthcare.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_home.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/home.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_info.xml.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/info.xml"
+    },
+    {
+        "merged": "cdu.zch.healthcare.app-merged_res-25:/drawable_health4.jpeg.flat",
+        "source": "cdu.zch.healthcare.app-main-27:/drawable/health4.jpeg"
+    }
+]
